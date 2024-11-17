@@ -22,7 +22,7 @@ const whoAmI = {
   
   skills: [
     "Full-Stack Development",
-    "User Experience Reaseach & Design",
+    "User Experience Research & Design",
     "Graphic Design",
     "Photography"
     "Illustration",
