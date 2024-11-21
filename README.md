@@ -52,9 +52,9 @@ education: [
 
 ## 🌐 Get In Touch
 <br/><br/>
-[![Behance](https://img.shields.io/badge/Behance-1769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/ruan-jordaan) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jughead.jpg/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ruanjordaan/) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ruan-jordaan) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jughead.jpg/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruanjordaan/) 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jughead) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jugheadstudios) 
