@@ -84,24 +84,7 @@ education: [
 ### Other Fun Stuff <br/><br/>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-<br/><br/>
-
-# 🔥 Check These Projects
-[![Realms](https://github-readme-stats.vercel.app/api/pin/?username=JugheadStudio&repo=Realms&theme=dark&hide_border=true)](https://github.com/JugheadStudio/Realms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JugheadStudio&repo=Frames&theme=dark&hide_border=true)](https://github.com/JugheadStudio/Frames)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JugheadStudio&repo=Tradera&theme=dark&hide_border=true)](https://github.com/JugheadStudio/Tradera)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JugheadStudio&repo=Fallout-Forge-Frontend&theme=dark&hide_border=true)](https://github.com/JugheadStudio/Fallout-Forge-Frontend)
-
-<br/><br/>
-
-# 📊 GitHub Stats:
-<br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JugheadStudio&theme=dark&hide_border=true" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JugheadStudio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JugheadStudio&layout=donut-vertical&theme=dark&hide_border=true" />
-
-  <br/><br/>
-  </div>
+</div>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
