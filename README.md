@@ -12,13 +12,8 @@ __/\\\________/\\\_______/\\\\\_______/\\\______________/\\\_____/\\\\\\\\\\\___
 ``` javascript
 const whoAmI = {
   name: "Ruan Jordaan",
-  title: "Creative Problem-Solver",
+  title: "Founder & Lead Engineer at RODEGA",
   philosophy: "Comfort smothers the flames of ambition 🔥",
-
-  founder: [
-    "Abby Labs",
-    "Jughead Studios"
-  ],
   
   skills: [
     "Full-Stack Development",
