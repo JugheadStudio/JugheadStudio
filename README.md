@@ -48,15 +48,15 @@ const whoAmI = {
 ## 🛠️ What I'm working on
 
 ### [Squire](https://joinsquire.gg)
-A chat platform for small communities, similar to Discord, that I designed and built on my own. Web, desktop and phone apps on one shared codebase, with voice and video calls, end-to-end encrypted DMs, a public API with bots and webhooks, and its own app platform.
+A Discord-style chat platform that I designed and built on my own. Web, desktop and phone apps on one shared codebase, with voice and video calls, end-to-end encrypted DMs, a public API with bots and webhooks, and its own app platform.
 
 `React` `TypeScript` `Bun` `Hono` `PostgreSQL` `Expo` `LiveKit` `Docker`
 
 > 🔒 The code is private. Happy to walk you through it.
 
-<!-- Add 2 or 3 screenshots here, for example:
-<img src="images/squire-chat.png" width="49%"> <img src="images/squire-phone.png" width="49%">
--->
+<img width="48%" alt="Squire Chat Sreenshot" src="https://github.com/user-attachments/assets/269ee526-2805-46e0-8869-7393810277ad" />
+<img width="48%" alt="Squire Boards Screenshot" src="https://github.com/user-attachments/assets/d940fee3-051e-4eae-9a83-4855c2d996ae" />
+
 
 ### Client work
 | Project | Stack |
